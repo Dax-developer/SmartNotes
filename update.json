@@ -1,1 +1,6 @@
-Test
+{
+  "latest_version": "2.0.0",
+  "apk_url": "https://github.com/Dax-developer/SmartNotes/releases/download/v2.0.0/app-release.apk",
+  "release_notes": "🎉 નવું અપડેટ આવી ગયું છે!\n\n- નવા ફીચર્સ\n- બગ ફિક્સ.",
+  "force_update": false
+}
